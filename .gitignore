@@ -1,0 +1,8 @@
+Debug/
+Visual Micro/
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+*.log
+*.zip
